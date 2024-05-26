@@ -145,17 +145,12 @@ section > ul:nth-of-type(2){
     /* margin-bottom: 10px; */
     border-radius:  0px 0px 10px  10px;
 }
-section > ul:nth-of-type(2) > li{
-    
-}
 
 section > ul:nth-of-type(2) > li > div{
     display: flex;
     align-items: center;
-    
     height: 100%;
     width: 100%;
-    
     gap: 20px;
 }
 section > ul:nth-of-type(2) > li > div > img{
@@ -283,9 +278,6 @@ section > ul:nth-of-type(2) > li > img{
 
 
 
-    section > ul:nth-of-type(2) > li{
-        
-    }
     
     section > ul:nth-of-type(2) > li > div{
         display: flex;
